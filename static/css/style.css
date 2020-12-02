@@ -50,3 +50,9 @@ code {
   color: #55ff00;
   word-wrap: break-word;
 }
+
+.htext {
+  font-size: small;
+  padding: 1%;
+  line-height: 5%;
+}
